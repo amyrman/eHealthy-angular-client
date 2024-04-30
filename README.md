@@ -1,3 +1,3 @@
 # eHealthy-client
 
-Client repo for eHealthy app. Vue, Jakarta EE, PostgreSQL.
+Cloned client repo for refactoring eHealthy app --> Angular, C#/.NET, PostgreSQL.
