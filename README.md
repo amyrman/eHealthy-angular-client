@@ -1,3 +1,3 @@
 # eHealthy-client
 
-Cloned client repo for refactoring eHealthy app --> Angular, C#/.NET, PostgreSQL.
+Client repo for eHealthy app. Angular, C#/.NET, PostgreSQL.
